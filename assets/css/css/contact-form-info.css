@@ -1,0 +1,111 @@
+.form-control.input {
+  border: 0;
+  background: transparent;
+  border-bottom: 1px solid #98523c !important;
+  border-radius: 0px !important;
+}
+
+input[type="text"], input[type="email"], input[type="tel"], textarea {
+  border-radius: 0 !important;
+}
+
+input[type="text"], input[type="email"], input[type="tel"], textarea {
+  border-radius: 8px !important;
+}
+
+.submit-now {
+  margin-top: 20px;
+  font-size: 16px;
+  width: 200px;
+  height: 50px;
+  background-color: rgba(152,82,60,0.89);
+  border-color: transparent;
+}
+
+.form-control.input {
+  border: 0;
+  background: transparent;
+  border-bottom: 1px solid silver;
+  border-radius: 0px !important;
+}
+
+.getintouch {
+  height: auto;
+  /*background-image: url("Get In touch/GetInTouch.png");*/
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+input[type="text"], input[type="email"], input[type="tel"], textarea {
+  border-radius: 0 !important;
+}
+
+input[type="text"], input[type="email"], input[type="tel"], textarea {
+  border-radius: 8px !important;
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: #98523c;
+  border-color: #98523c;
+  box-shadow: 0px 10px 15px rgba(157,157,157,0.4);
+}
+
+.modern-form {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+.modern-form__hr {
+  border-color: rgb(152,82,60);
+  border-width: 3px;
+  width: 121px;
+}
+
+.modern-form__form-container {
+  padding-top: 100px;
+}
+
+.modern-form__form-group--padding-r {
+  padding-right: 20px;
+}
+
+.modern-form__form-group--padding-t {
+  padding-top: 50px;
+}
+
+.modern-form__form-control--textarea {
+  height: 95px !important;
+  resize: none;
+}
+
+.submit-now:hover {
+  color: #fff;
+  background-color: #98523c;
+  border: 1px solid #fff;
+}
+
+.btn-modal:hover {
+  background-color: #c0c0c0 !important;
+  border-color: #c0c0c0 !important;
+}
+
+.pis-hover:hover {
+  color: #98523c !important;
+}
+
+.project-name {
+  color: #ffffff;
+  box-shadow: 10px 10px 30px rgb(0,0,0);
+  width: 85%;
+  background: linear-gradient(rgba(255,255,255,0.4), rgba(255,255,255,0.4));
+}
+
+.project-name {
+  text-shadow: 2px 0px 4px #000000;
+}
+
+.btn-visit:hover {
+  color: #98523c !important;
+}
+
