@@ -107,11 +107,6 @@
   box-shadow: 0 0 0 transparent;
 }
 
-::selection {
-  background: rgba(152,82,60,0.8);
-  text-shadow: none;
-}
-
 a:hover {
   color: #98523c;
 }

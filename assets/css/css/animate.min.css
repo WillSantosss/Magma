@@ -1745,3 +1745,13 @@ span {
   background: #131416;
 }
 
+.filter2-span.active {
+  background: #131416 !important;
+  color: #ffffff;
+}
+
+.filter3-span.active {
+  background: #bababa !important;
+  color: #ffffff;
+}
+

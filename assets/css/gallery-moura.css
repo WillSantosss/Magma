@@ -43,11 +43,6 @@ a {
   background: rgba(152, 82, 60, 0.8);
 }
 
-::selection {
-  background: rgba(19,20,22,0.8) !important;
-  text-shadow: none;
-}
-
 a:hover {
   color: #000000;
 }

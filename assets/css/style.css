@@ -121,11 +121,19 @@ a {
   }
 }
 
-.form-control:focus {
+.form-control-moura:focus {
   color: #212529;
   background-color: #fff;
-  border-color: #98523c;
+  border-color: #98523c !important;
   outline: 0;
-  box-shadow: 0 0 0 .25rem rgba(152,82,60,0.25);
+  box-shadow: 0 0 0 .25rem rgba(152,82,60,0.25) !important;
+}
+
+.form-control-magma:focus {
+  color: #212529;
+  background-color: #fff;
+  border-color: #98523c !important;
+  outline: 0;
+  box-shadow: 0 0 0 .25rem rgba(152,82,60,0.25) !important;
 }
 
