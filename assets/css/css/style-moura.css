@@ -82,7 +82,7 @@
 
 @media (min-width: 769px) {
   .masthead-arcos {
-    background-image: url("../../../assets/img/arcos/Arcos%20(capa%20principal).png");
+    background-image: url("../../../assets/img/arcos/magmaioveis_arcos_topo.png");
     height: 900px;
   }
 }
@@ -96,7 +96,7 @@
 
 @media (min-width: 769px) {
   .masthead-portugal {
-    background-image: url("../../../assets/img/portugal/PORTUGAL_Corretores.png");
+    background-image: url("../../../assets/img/portugal/magmaioveis_portugal_topo.png");
     height: 900px;
   }
 }

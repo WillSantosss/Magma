@@ -1704,9 +1704,19 @@ span {
   background-color: rgba(130,71,52,0.7) !important;
 }
 
-.about-us-btn:hover {
+.about-us-btn.portugal:hover {
   color: rgb(255,255,255) !important;
-  background: rgb(152,82,60) !important;
+  background: rgb(186,186,186) !important;
+}
+
+.about-us-btn.arcos:hover {
+  color: rgb(255,255,255) !important;
+  background: #131416 !important;
+}
+
+.about-us-btn.moura:hover {
+  color: rgb(255,255,255) !important;
+  background: #98523c !important;
 }
 
 .button__stella-filter:hover {
@@ -1753,5 +1763,18 @@ span {
 .filter3-span.active {
   background: #bababa !important;
   color: #ffffff;
+}
+
+@media (min-width: 1200px) {
+  .slide-magma {
+    height: 940px !important;
+  }
+}
+
+.header-btn {
+  line-height: 10%;
+}
+
+.paragraph-email {
 }
 
