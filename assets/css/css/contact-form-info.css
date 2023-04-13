@@ -57,7 +57,7 @@ input[type="text"], input[type="email"], input[type="tel"], textarea {
 }
 
 .modern-form__hr {
-  border-color: rgb(152,82,60);
+  border-color: #892b1f;
   border-width: 3px;
   width: 121px;
 }

@@ -1660,7 +1660,7 @@
 
 @media (min-width: 300px) {
   .image-carousel-1 {
-    background: url("../../../assets/img/moura/stella_fachada.jpg");
+    background: url("../../../assets/img/stella/stella_fachada.jpg");
   }
 }
 
@@ -1729,6 +1729,7 @@ span {
 
 .button__portugal-filter:hover {
   background: #bababa !important;
+  border-color: #bababa !important;
 }
 
 .filter__bar-stella {
@@ -1819,5 +1820,6 @@ span {
 
 .button__arcos-filter:hover {
   background: #131416 !important;
+  border-color: #131416 !important;
 }
 

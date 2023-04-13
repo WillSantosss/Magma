@@ -58,7 +58,7 @@
 
 @media (max-width: 768px) {
   .masthead-moura {
-    background-image: url("../../../assets/img/moura/stella_fachada.jpg");
+    background-image: url("../../../assets/img/stella/stella_fachada.jpg");
     height: 570px !important;
     background-size: cover;
   }
@@ -89,7 +89,7 @@
 
 @media (min-width: 769px) {
   .masthead-moura {
-    background-image: url("../../../assets/img/moura/Capa%20principal%20Moura.svg");
+    background-image: url("../../../assets/img/stella/Capa%20principal%20Moura.svg");
     height: 900px;
   }
 }

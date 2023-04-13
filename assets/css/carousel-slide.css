@@ -9,15 +9,15 @@ div.jumbotron.carousel-hero {
 }
 
 div.jumbotron.hero-nature {
-  background-image: url('../../assets/img/moura/Utilidades.svg');
+  background-image: url('../../assets/img/stella/Utilidades.svg');
 }
 
 div.jumbotron.hero-photography {
-  background-image: url('../../assets/img/moura/Piscina.svg');
+  background-image: url('../../assets/img/stella/Piscina.svg');
 }
 
 div.jumbotron.hero-technology {
-  /*background-image: url('../../assets/img/moura/Decorado.svg');*/
+  /*background-image: url('../../assets/img/stella/Decorado.svg');*/
 }
 
 h1.hero-title, h2.hero-title, h3.hero-title {
