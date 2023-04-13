@@ -40,7 +40,7 @@
   height: 72px;
   border-radius: 50%;
   transition: 0.5s;
-  border: 2px solid #98523c;
+  border: 2px solid #892b1f;
   margin-right: 15px;
 }
 
@@ -49,7 +49,7 @@
 }
 
 .services .icon-box:hover .services-icon {
-  background: #98523c;
+  background: #892b1f;
 }
 
 .services-icon:hover {
@@ -62,8 +62,8 @@
   height: 72px;
   border-radius: 50%;
   transition: 0.5s;
-  border: 2px solid rgba(152,82,60,0.6);
-  background-color: #98523c;
+  border: 2px solid rgba(137,43,31,0.6);
+  background-color: #892b1f;
 }
 
 .services-icon i:hover {
@@ -71,7 +71,7 @@
 }
 
 .services-icon i {
-  color: #98523c;
+  color: #892b1f;
 }
 
 .services-p {
@@ -86,11 +86,11 @@
 }
 
 .services .icon-box:hover .services-title {
-  color: #98523c;
+  color: #892b1f;
 }
 
 .services .icon-box:hover .services-title {
-  color: #98523c;
+  color: #892b1f;
 }
 
 .col.col-lg-4.col-md-6.icon-box {
@@ -195,7 +195,7 @@
 }
 
 .highlight-blue {
-  background: #98523c;
+  background: #892b1f;
 }
 
 hr {

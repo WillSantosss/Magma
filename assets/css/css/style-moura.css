@@ -89,7 +89,7 @@
 
 @media (min-width: 769px) {
   .masthead-moura {
-    background-image: url("../../../assets/img/moura/Capa%20principal%20Moura%20(logo).png");
+    background-image: url("../../../assets/img/moura/Capa%20principal%20Moura.svg");
     height: 900px;
   }
 }
@@ -216,6 +216,12 @@ ul.social-buttons li a {
   color: var(--bs-success) !important;
 }
 
+.btn-primary.arcos:active, .btn-primary.arcos:focus, .btn-primary.arcos:hover {
+  background-color: rgb(19,20,22) !important;
+  border-color: #131416 !important;
+  color: #ffffff !important;
+}
+
 #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
   color: #ffffff !important;
 }
@@ -267,6 +273,6 @@ ul.social-buttons li a {
 }
 
 .form-control:selection {
-  border-color: #98523c;
+  border-color: #892b1f;
 }
 

@@ -1701,7 +1701,7 @@ span {
 
 .header-btn:hover {
   color: #ffffff !important;
-  background-color: rgba(130,71,52,0.7) !important;
+  background-color: rgba(137,43,31,0.7) !important;
 }
 
 .about-us-btn.portugal:hover {
@@ -1727,8 +1727,8 @@ span {
   background: #131416;
 }
 
-.button__stella-portugal:hover {
-  background: #bababa;
+.button__portugal-filter:hover {
+  background: #bababa !important;
 }
 
 .filter__bar-stella {
@@ -1776,5 +1776,48 @@ span {
 }
 
 .paragraph-email {
+}
+
+.link-filter-moura {
+  text-decoration: none;
+}
+
+.link-filter-moura:hover {
+  color: #98523c;
+  text-decoration: none;
+}
+
+.link-filter-arcos:hover {
+  color: rgba(19,20,22,0.8);
+  text-decoration: none;
+}
+
+.link-filter-arcos {
+  text-decoration: none;
+}
+
+.link-filter-portugal {
+  text-decoration: none;
+}
+
+.link-filter-portugal:hover {
+  color: #bababa;
+  text-decoration: none;
+}
+
+.btn-modal-card:hover, .btn-modal-card:focus, .btn-modal-card:active {
+  background-color: #892b1f !important;
+  color: #98523c !important;
+}
+
+.moura {
+}
+
+.paragrafo-email {
+  word-break: break-all;
+}
+
+.button__arcos-filter:hover {
+  background: #131416 !important;
 }
 

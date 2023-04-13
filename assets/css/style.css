@@ -132,8 +132,8 @@ a {
 .form-control-magma:focus {
   color: #212529;
   background-color: #fff;
-  border-color: #98523c !important;
+  border-color: #892b1f !important;
   outline: 0;
-  box-shadow: 0 0 0 .25rem rgba(152,82,60,0.25) !important;
+  box-shadow: 0 0 0 .25rem rgba(137,43,31,0.25) !important;
 }
 
