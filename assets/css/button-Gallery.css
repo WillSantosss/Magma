@@ -152,6 +152,14 @@ button:not(:disabled), [type=button]:not(:disabled), [type=reset]:not(:disabled)
   box-shadow: 0 0 0 .2rem rgba(25,135,84,0.6) !important;
 }
 
+.btn-primary.arcos:active, .btn-primary.arcos:focus {
+  box-shadow: 0 0 0 .2rem rgba(19,20,22,0.6) !important;
+}
+
+.btn-primary.portugal:active, .btn-primary.portugal:focus {
+  box-shadow: 0 0 0 .2rem rgba(186,186,186,0.6) !important;
+}
+
 .btn-primary {
   color: #fff;
   background-color: #98523c;
@@ -178,6 +186,10 @@ button:not(:disabled), [type=button]:not(:disabled), [type=reset]:not(:disabled)
 
 .btn-primary.focus, .btn-primary:focus {
   box-shadow: 0 0 0 0 #048f83!important;
+}
+
+.btn-primary.focus, .btn-primary.portugal:focus {
+  box-shadow: 0 0 0 0 #707070!important;
 }
 
 .btn-primary:hover {
